@@ -65,7 +65,7 @@ Ejeucte los comandos según corresponda:
 
 ## ESLint - Prettier
 
-ESLint y Prettier te ayudan a mantener tu código limpio y legible, lo que a su vez te ayuda a reducir errores y mejorar la calidad de tu código. Por defecto este proyecto ya contiene las configuraciones necesarias, las reglas de ESLint en el archivo .eslintrc.json según las necesidades de TalentPool.
+ESLint y Prettier te ayudan a mantener tu código limpio y legible, lo que a su vez te ayuda a reducir errores y mejorar la calidad de tu código. Por defecto este proyecto ya contiene las configuraciones necesarias, las reglas de ESLint en el archivo .eslintrc.json según las necesidades de su Proyecto.
 
 Ejeucte los comandos según corresponda:
 - `npm run lint` 
