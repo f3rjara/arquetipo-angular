@@ -3,7 +3,7 @@
 <h2 align="center">Angular 15 - La plataforma moderna para desarrolladores web.</h2>
 
 <p align="center">
-  <img src="https://github.com/angular/angular/raw/main/aio/src/assets/images/logos/angular/angular.png" alt="angular-logo" width="123px" height="113px"/>
+  <img src="https://raw.githubusercontent.com/f3rjara/f3rjara/refs/heads/main/img/angular_gradient.png" alt="angular-logo" width="123px" height="113px"/>
 
   <img src="https://dbaeumer.gallerycdn.vsassets.io/extensions/dbaeumer/vscode-eslint/2.4.0/1675676105903/Microsoft.VisualStudio.Services.Icons.Default" alt="eslint-logo" width="105px" height="100px"/>
 
