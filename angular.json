@@ -58,10 +58,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "browserTarget": "arquetipo-angular-standalone:build:production"
+              "buildTarget": "arquetipo-angular-standalone:build:production"
             },
             "development": {
-              "browserTarget": "arquetipo-angular-standalone:build:development"
+              "buildTarget": "arquetipo-angular-standalone:build:development"
             }
           },
           "defaultConfiguration": "development"
@@ -69,7 +69,7 @@
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "arquetipo-angular-standalone:build"
+            "buildTarget": "arquetipo-angular-standalone:build"
           }
         },
         "test": {
