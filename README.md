@@ -1,6 +1,6 @@
 <h1 align="center">Arquetipo Angular Standalone</h1>
 <hr>
-<h2 align="center">Angular 15 - La plataforma moderna para desarrolladores web.</h2>
+<h2 align="center">Angular 16 - La plataforma moderna para desarrolladores web.</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/f3rjara/f3rjara/refs/heads/main/img/angular_gradient.png" alt="angular-logo" width="123px" height="113px"/>
@@ -36,8 +36,8 @@ Este proyecto trabaja bajo Angular v15 mediante STANDALONE, puede revisar las TA
 
 |  package use  |  version  |
 |---------------|-----------|
-|  Angular CLI  |  15.2     |
-|  Node         |  18       |
+|  Angular CLI  |  16.2     |
+|  Node         |  20       |
 |  Npm          |  9        |
 
 
