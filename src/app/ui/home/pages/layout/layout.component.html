@@ -1,1 +1,4 @@
-<h1 class="title">Arquetipo Angular 17 Standalone</h1>
+<h1 class="title" [ngClass]="{ 'text-orange-600': isCheck,'': !isCheck  }">Arquetipo Angular 17 Standalone</h1>
+<div class="card flex justify-content-center">
+  <p-button label="Check" icon="pi pi-check" (onClick)="isCheck = !isCheck"></p-button>
+</div>

@@ -1,11 +1,14 @@
+import { NgClass } from '@angular/common';
 import { Component } from '@angular/core';
-import { CommonModule } from '@angular/common';
+import { ButtonModule } from 'primeng/button';
 
 @Component({
   selector: 'app-layout',
   standalone: true,
-  imports: [CommonModule],
+  imports: [NgClass, ButtonModule],
   templateUrl: './layout.component.html',
   styleUrls: ['./layout.component.scss'],
 })
-export class LayoutComponent {}
+export class LayoutComponent {
+  isCheck: boolean = false;
+}
